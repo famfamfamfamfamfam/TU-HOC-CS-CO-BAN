@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\bin\Debug\net8.0\CSBasicCommand2.exe
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\bin\Debug\net8.0\CSBasicCommand2.deps.json
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\bin\Debug\net8.0\CSBasicCommand2.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\bin\Debug\net8.0\CSBasicCommand2.dll
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\bin\Debug\net8.0\CSBasicCommand2.pdb
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.dll
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\refint\CSBasicCommand2.dll
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.pdb
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\CSBasicCommand2.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\CSBasicCommand00\CSBasicCommand2\CSBasicCommand2\obj\Debug\net8.0\ref\CSBasicCommand2.dll

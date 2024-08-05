@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\bin\Debug\net8.0\CSBasicCommand.exe
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\bin\Debug\net8.0\CSBasicCommand.deps.json
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\bin\Debug\net8.0\CSBasicCommand.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\bin\Debug\net8.0\CSBasicCommand.dll
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\bin\Debug\net8.0\CSBasicCommand.pdb
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.dll
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\refint\CSBasicCommand.dll
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.pdb
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\CSBasicCommand.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\CSBasicCommand\CSBasicCommand\obj\Debug\net8.0\ref\CSBasicCommand.dll

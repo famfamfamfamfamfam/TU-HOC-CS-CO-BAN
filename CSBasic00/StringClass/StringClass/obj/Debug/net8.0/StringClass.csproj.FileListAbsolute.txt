@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\bin\Debug\net8.0\StringClass.exe
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\bin\Debug\net8.0\StringClass.deps.json
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\bin\Debug\net8.0\StringClass.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\bin\Debug\net8.0\StringClass.dll
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\bin\Debug\net8.0\StringClass.pdb
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.dll
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\refint\StringClass.dll
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.pdb
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\StringClass.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\CSBasic00\StringClass\StringClass\obj\Debug\net8.0\ref\StringClass.dll

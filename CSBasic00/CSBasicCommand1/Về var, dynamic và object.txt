@@ -1,0 +1,9 @@
+'var' là một từ khóa cho phép khai báo biến không có kiểu dữ liệu và bắt buộc phải khai báo giá trị lúc khởi tạo
+	var <biến> = <giá trị>;
+'object' là một kiểu dữ liệu cho phép boxing/unboxing một giá trị hoặc một biến kiểu dữ liệu khác vào/khỏi biến được khai báo
+	object <biến>;
+	object <biến> = <giá trị/biến đã có giá trị>;
+	unboxing bằng cách ép kiểu: <kiểu dữ liệu> <biến mới để lưu giá trị của biến cần unboxing> = (<kiểu dữ liệu>)<biến object cần unboxing>
+'dynamic' là một từ khóa cho phép lưu trữ tương tự như object nhưng bỏ qua nhận diện kiểu dữ liệu của giá trị được lưu nên trước khi chạy chương trình không phát hiện lỗi
+	dynamic <biến>;
+	dynamic <biến> = <giá trị/biến đã có giá trị>;

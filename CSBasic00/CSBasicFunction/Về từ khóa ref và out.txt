@@ -1,0 +1,10 @@
+Khi một hàm được khởi tạo, các biến cục bộ của nó sẽ bị xóa giá trị sau khi thực hiện khối lệnh thuộc hàm.
+Tuy nhiên, khi khai báo giá trị truyền vào khi gọi hàm và giá trị Parameter khi khởi tạo hàm với từ khóa ref và out, các giá trị đi qua các hàm sẽ giữ nguyên những thay đổi đã thực hiện.
+Cú pháp và lưu ý: từ khóa ref: 
+Khi gọi hàm: <tên hàm>(ref <giá trị/biến truyền vào);
+Khi khởi tạo hàm: <từ khóa 1> <từ khóa 2> <tên hàm>(ref <kiểu dữ liệu> <tên biến được truyền giá trị>) {}
+Khi sử dụng từ khóa ref, phải có giá trị được truyền vào khi gọi hàm, không nhất thiết có giá trị trong hàm khởi tạo.
+từ khóa out:
+Khi gọi hàm: <tên hàm>(out <giá trị/biến truyền vào);
+Khi khởi tạo: <từ khóa 1> <từ khóa 2> <tên hàm>(out <kiểu dữ liệu> <tên biến được truyền giá trị>) {}
+Khi sử dụng từ khóa out, biến được khởi tạo bên trong hàm phải có giá trị, không nhất thiết phải có giá trị truyền vào khi gọi hàm.
