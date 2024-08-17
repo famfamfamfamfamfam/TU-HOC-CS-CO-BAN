@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\bin\Debug\net8.0\MineSweeper.exe
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\bin\Debug\net8.0\MineSweeper.deps.json
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\bin\Debug\net8.0\MineSweeper.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\bin\Debug\net8.0\MineSweeper.dll
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\bin\Debug\net8.0\MineSweeper.pdb
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.sourcelink.json
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.dll
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\refint\MineSweeper.dll
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.pdb
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\MineSweeper.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\CSOOP\MineSweeper\MineSweeper\obj\Debug\net8.0\ref\MineSweeper.dll

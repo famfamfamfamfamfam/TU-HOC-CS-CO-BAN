@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\csoop\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\csoop\\practise\\practise\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|solutionrelative:practise\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\csoop\\practise\\practise\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|solutionrelative:practise\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\csoop\\practise\\practise\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|solutionrelative:practise\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\csoop\\practise\\practise\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|solutionrelative:practise\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\csoop\\practise\\practise\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1574CC-03AA-4817-9A88-27450199F8E3}|Practise\\Practise.csproj|solutionrelative:practise\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Practise\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Rectangle.cs",
+              "RelativeToolTip": "Practise\\Rectangle.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:07:13.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Circle.cs",
+              "RelativeDocumentMoniker": "Practise\\Circle.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Circle.cs",
+              "RelativeToolTip": "Practise\\Circle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:06:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Shape.cs",
+              "RelativeDocumentMoniker": "Practise\\Shape.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Shape.cs",
+              "RelativeToolTip": "Practise\\Shape.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:56:39.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "Practise\\ElectricCar.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\ElectricCar.cs",
+              "RelativeToolTip": "Practise\\ElectricCar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:36:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Car.cs",
+              "RelativeDocumentMoniker": "Practise\\Car.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Car.cs",
+              "RelativeToolTip": "Practise\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:15:24.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Program.cs",
+              "RelativeDocumentMoniker": "Practise\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\CSOOP\\Practise\\Practise\\Program.cs",
+              "RelativeToolTip": "Practise\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:13:41.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

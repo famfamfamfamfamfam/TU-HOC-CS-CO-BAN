@@ -108,4 +108,98 @@
 //}
 //Console.WriteLine(s);
 ////Vòng lặp lặp lại 10 lần, mỗi lần duyệt qua một giá trị của c trên toàn bộ string s và thực thi lệnh replace
-///
+//int a = 0;
+//if ((cachanghinhhoc)a == cachanghinhhoc.congthucdientich)
+//Console.WriteLine((int)cachanghinhhoc.thu);
+//Console.WriteLine(a);//ép kiểu, đã chỉ sửa theo debug cho hết lỗi
+//enum cachanghinhhoc
+//{
+//    thu,
+//    sopi = 4,
+//    congthucdientich,
+//    donvithetich
+//}
+//using System.ComponentModel.DataAnnotations;
+
+//static string Daonguocchuoikytu(string s)
+//{
+//    if (s.Length == 1) return s[0].ToString();
+//    return s[s.Length - 1] + Daonguocchuoikytu(s.Substring(0, s.Length - 1));
+//}
+
+//static int Tinhtong(int[] arr)
+//{
+//    if (arr.Length == 1) return arr[0];
+//    int[] arrr = new int[arr.Length-1];
+//    Array.Copy(arr,0, arrr, 0, arr.Length - 1);
+//    return arr[arr.Length-1] + Tinhtong(arrr);
+//}
+
+//static int TimSoLonNhat(int[] arr)
+//{
+//    if (arr.Length == 1) return arr[0];
+//    int mx = TimSoLonNhat(arr[1..]); // bằng với Array.Copy(arr, 1, tenmangcon, 0, arr.Length - 1)
+//    return Math.Max(arr[0], mx); //Lớp Math hỗ trợ
+//}
+//using System;
+
+//namespace MANGMOTCHIEU
+//{
+//    class ThemPhanTuVaoMang
+//    {
+//        static void Main(string[] args)
+//        {
+//            Console.WriteLine("Nhap so phan tu cua mang:");
+//            int n = int.Parse(Console.ReadLine());
+//            int[] mang = new int[n + 1];
+//            for (int i = 0; i < n; i++)
+//            {
+//                Console.WriteLine("Phan tu vi tri {0}: ", i);
+//                mang[i] = int.Parse(Console.ReadLine());
+//            }
+//            Console.WriteLine("Nhap so muon chen vao mang:");
+//            int sochen = int.Parse(Console.ReadLine());
+//            Console.WriteLine("Nhap vi tri muon chen vao mang:");
+//            int vitri = int.Parse(Console.ReadLine());
+//            if (vitri < 0 || vitri >= (n + 1)) return;
+//            for (int i = n; i >= vitri; i--)
+//            {
+//                if (i==0) break;
+//                mang[i] = mang[i - 1];
+//            }
+//            mang[vitri] = sochen;
+//            for (int i = 0; i < n + 1; i++)
+//            {
+//                Console.WriteLine(mang[i]);
+//            }
+//        }
+//    }
+//}
+char[,] map = { {'.','.','*','.'},
+    {'.','.','.','*'},
+    {'*','*','.','.'},
+    {'.','.','.','.'} };
+int y = map.GetLength(0);
+int x = map.GetLength(1);
+int[,] mapgoc = new int[,] { {0,0,y-1,y-1},{0,x-1,0,x-1} };
+int[] arr0 = new int[] {-1, 0, 1};
+int[] arr1 = {-1,0,1};
+for (int xx = 0; xx < mapgoc.GetLength(1); xx++)
+{
+    if (map[mapgoc[1,xx],mapgoc[0,xx]] != '*')
+    {
+        map[mapgoc[1, xx], mapgoc[0, xx]] = '0';
+        for (int i = 0; i < arr0.Length; i++)
+        {
+            for (int j = 0; j < arr1.Length; j++)
+            {
+                int y0 = arr0[i] + mapgoc[1,xx];
+                int x0 = arr1[j] + mapgoc[0, xx];
+                if (y0 >= 0 && y0 < y && x0 < x && x0 >= 0 && map[y0, x0] == '*')
+                {
+                    map[mapgoc[1, xx], mapgoc[0, xx]]++;
+                }
+            }
+        }
+    }
+}

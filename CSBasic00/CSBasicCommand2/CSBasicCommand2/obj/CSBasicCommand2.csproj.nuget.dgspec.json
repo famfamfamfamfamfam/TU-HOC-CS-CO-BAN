@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Module1\\CSBasicCommand00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj": {}
+    "C:\\Users\\pc\\Desktop\\Module1\\CSBasic00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Module1\\CSBasicCommand00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj": {
+    "C:\\Users\\pc\\Desktop\\Module1\\CSBasic00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Module1\\CSBasicCommand00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Module1\\CSBasic00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj",
         "projectName": "CSBasicCommand2",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Module1\\CSBasicCommand00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\Module1\\CSBasic00\\CSBasicCommand2\\CSBasicCommand2\\CSBasicCommand2.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Module1\\CSBasicCommand00\\CSBasicCommand2\\CSBasicCommand2\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\Module1\\CSBasic00\\CSBasicCommand2\\CSBasicCommand2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
