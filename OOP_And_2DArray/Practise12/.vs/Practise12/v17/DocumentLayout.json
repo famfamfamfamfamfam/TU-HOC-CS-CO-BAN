@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4900CDF3-2CE8-4537-A877-68DC7A895612}|Practise12\\Practise12.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise12\\practise12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900CDF3-2CE8-4537-A877-68DC7A895612}|Practise12\\Practise12.csproj|solutionrelative:practise12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900CDF3-2CE8-4537-A877-68DC7A895612}|Practise12\\Practise12.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise12\\practise12\\scientificcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900CDF3-2CE8-4537-A877-68DC7A895612}|Practise12\\Practise12.csproj|solutionrelative:practise12\\scientificcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900CDF3-2CE8-4537-A877-68DC7A895612}|Practise12\\Practise12.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise12\\practise12\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900CDF3-2CE8-4537-A877-68DC7A895612}|Practise12\\Practise12.csproj|solutionrelative:practise12\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScientificCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\Practise12\\ScientificCalculator.cs",
+              "RelativeDocumentMoniker": "Practise12\\ScientificCalculator.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\Practise12\\ScientificCalculator.cs",
+              "RelativeToolTip": "Practise12\\ScientificCalculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:26:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\Practise12\\Calculator.cs",
+              "RelativeDocumentMoniker": "Practise12\\Calculator.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\Practise12\\Calculator.cs",
+              "RelativeToolTip": "Practise12\\Calculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:05:22.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\Practise12\\Program.cs",
+              "RelativeDocumentMoniker": "Practise12\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise12\\Practise12\\Program.cs",
+              "RelativeToolTip": "Practise12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:03:59.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C4528-AA85-4E53-B3A7-A83E5F9B55F7}|Practise2.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise2\\practise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C4528-AA85-4E53-B3A7-A83E5F9B55F7}|Practise2.csproj|solutionrelative:practise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C4528-AA85-4E53-B3A7-A83E5F9B55F7}|Practise2.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise2\\practise2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C4528-AA85-4E53-B3A7-A83E5F9B55F7}|Practise2.csproj|solutionrelative:practise2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C4528-AA85-4E53-B3A7-A83E5F9B55F7}|Practise2.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise2\\practise2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C4528-AA85-4E53-B3A7-A83E5F9B55F7}|Practise2.csproj|solutionrelative:practise2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\Practise2\\Program.cs",
+              "RelativeDocumentMoniker": "Practise2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\Practise2\\Program.cs",
+              "RelativeToolTip": "Practise2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:29:38.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\Practise2\\Dog.cs",
+              "RelativeDocumentMoniker": "Practise2\\Dog.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\Practise2\\Dog.cs",
+              "RelativeToolTip": "Practise2\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:29:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\Practise2\\Animal.cs",
+              "RelativeDocumentMoniker": "Practise2\\Animal.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise2\\Practise2\\Animal.cs",
+              "RelativeToolTip": "Practise2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:29:35.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

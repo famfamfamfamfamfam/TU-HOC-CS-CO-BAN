@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\bin\Debug\net8.0\Practise3.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\bin\Debug\net8.0\Practise3.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\bin\Debug\net8.0\Practise3.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\bin\Debug\net8.0\Practise3.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\bin\Debug\net8.0\Practise3.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\refint\Practise3.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\Practise3.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise3\Practise3\obj\Debug\net8.0\ref\Practise3.dll

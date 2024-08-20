@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\bin\Debug\net8.0\Practise9.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\bin\Debug\net8.0\Practise9.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\bin\Debug\net8.0\Practise9.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\bin\Debug\net8.0\Practise9.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\bin\Debug\net8.0\Practise9.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\refint\Practise9.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\Practise9.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise9\Practise9\obj\Debug\net8.0\ref\Practise9.dll

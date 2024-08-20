@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\bin\Debug\net8.0\Mine_Sweeper.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\bin\Debug\net8.0\Mine_Sweeper.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\bin\Debug\net8.0\Mine_Sweeper.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\bin\Debug\net8.0\Mine_Sweeper.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\bin\Debug\net8.0\Mine_Sweeper.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\refint\Mine_Sweeper.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\Mine_Sweeper.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Mine_Sweeper\Mine_Sweeper\obj\Debug\net8.0\ref\Mine_Sweeper.dll

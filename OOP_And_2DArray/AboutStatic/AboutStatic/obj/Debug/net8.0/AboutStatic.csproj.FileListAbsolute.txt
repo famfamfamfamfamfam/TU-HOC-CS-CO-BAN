@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\bin\Debug\net8.0\AboutStatic.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\bin\Debug\net8.0\AboutStatic.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\bin\Debug\net8.0\AboutStatic.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\bin\Debug\net8.0\AboutStatic.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\bin\Debug\net8.0\AboutStatic.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\refint\AboutStatic.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\AboutStatic.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\AboutStatic\AboutStatic\obj\Debug\net8.0\ref\AboutStatic.dll

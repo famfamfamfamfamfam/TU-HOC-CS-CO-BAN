@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Mine_Sweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB98E9C5-4C68-401C-916F-8E18B933FEB5}|Mine_Sweeper\\Mine_Sweeper.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\mine_sweeper\\mine_sweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB98E9C5-4C68-401C-916F-8E18B933FEB5}|Mine_Sweeper\\Mine_Sweeper.csproj|solutionrelative:mine_sweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Mine_Sweeper\\Mine_Sweeper\\Program.cs",
+              "RelativeDocumentMoniker": "Mine_Sweeper\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Mine_Sweeper\\Mine_Sweeper\\Program.cs",
+              "RelativeToolTip": "Mine_Sweeper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:43:00.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

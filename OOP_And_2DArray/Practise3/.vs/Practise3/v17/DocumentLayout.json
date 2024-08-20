@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise3\\practise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|solutionrelative:practise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise3\\practise3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|solutionrelative:practise3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise3\\practise3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|solutionrelative:practise3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise3\\practise3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|solutionrelative:practise3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise3\\practise3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5A5092-8FF1-41E1-864D-C1BAEE393B93}|Practise3\\Practise3.csproj|solutionrelative:practise3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Triangle.cs",
+              "RelativeDocumentMoniker": "Practise3\\Triangle.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Triangle.cs",
+              "RelativeToolTip": "Practise3\\Triangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:49:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Practise3\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Rectangle.cs",
+              "RelativeToolTip": "Practise3\\Rectangle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:48:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Circle.cs",
+              "RelativeDocumentMoniker": "Practise3\\Circle.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Circle.cs",
+              "RelativeToolTip": "Practise3\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:48:15.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Shape.cs",
+              "RelativeDocumentMoniker": "Practise3\\Shape.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Shape.cs",
+              "RelativeToolTip": "Practise3\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:45:30.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Program.cs",
+              "RelativeDocumentMoniker": "Practise3\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise3\\Practise3\\Program.cs",
+              "RelativeToolTip": "Practise3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:45:06.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

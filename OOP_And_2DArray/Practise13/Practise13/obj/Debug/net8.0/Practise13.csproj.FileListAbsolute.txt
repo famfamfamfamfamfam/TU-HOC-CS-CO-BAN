@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\bin\Debug\net8.0\Practise13.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\bin\Debug\net8.0\Practise13.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\bin\Debug\net8.0\Practise13.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\bin\Debug\net8.0\Practise13.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\bin\Debug\net8.0\Practise13.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\refint\Practise13.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\Practise13.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise13\Practise13\obj\Debug\net8.0\ref\Practise13.dll

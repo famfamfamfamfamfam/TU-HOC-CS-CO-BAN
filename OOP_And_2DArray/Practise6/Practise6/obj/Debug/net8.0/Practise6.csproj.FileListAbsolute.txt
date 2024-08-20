@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\bin\Debug\net8.0\Practise6.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\bin\Debug\net8.0\Practise6.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\bin\Debug\net8.0\Practise6.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\bin\Debug\net8.0\Practise6.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\bin\Debug\net8.0\Practise6.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\refint\Practise6.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\Practise6.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise6\Practise6\obj\Debug\net8.0\ref\Practise6.dll

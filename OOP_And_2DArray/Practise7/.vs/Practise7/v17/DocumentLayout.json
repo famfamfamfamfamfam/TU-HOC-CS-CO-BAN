@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise7\\practise7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|solutionrelative:practise7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise7\\practise7\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|solutionrelative:practise7\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise7\\practise7\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|solutionrelative:practise7\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise7\\practise7\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D6AF71-80E1-46B7-B332-7DFEAEAA048E}|Practise7\\Practise7.csproj|solutionrelative:practise7\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\Piano.cs",
+              "RelativeDocumentMoniker": "Practise7\\Piano.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\Piano.cs",
+              "RelativeToolTip": "Practise7\\Piano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:22:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\Guitar.cs",
+              "RelativeDocumentMoniker": "Practise7\\Guitar.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\Guitar.cs",
+              "RelativeToolTip": "Practise7\\Guitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:22:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\IPlayable.cs",
+              "RelativeDocumentMoniker": "Practise7\\IPlayable.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\IPlayable.cs",
+              "RelativeToolTip": "Practise7\\IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:21:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\Program.cs",
+              "RelativeDocumentMoniker": "Practise7\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise7\\Practise7\\Program.cs",
+              "RelativeToolTip": "Practise7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:19:43.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

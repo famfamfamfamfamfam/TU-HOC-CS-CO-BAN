@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\bin\Debug\net8.0\OverloadOperator.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\bin\Debug\net8.0\OverloadOperator.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\bin\Debug\net8.0\OverloadOperator.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\bin\Debug\net8.0\OverloadOperator.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\bin\Debug\net8.0\OverloadOperator.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\refint\OverloadOperator.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\OverloadOperator.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\OverloadOperator\OverloadOperator\obj\Debug\net8.0\ref\OverloadOperator.dll

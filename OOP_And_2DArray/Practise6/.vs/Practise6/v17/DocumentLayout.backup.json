@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise6\\practise6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|solutionrelative:practise6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise6\\practise6\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|solutionrelative:practise6\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise6\\practise6\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|solutionrelative:practise6\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise6\\practise6\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CD495-7F43-4847-95F7-990A2BC79EBB}|Practise6\\Practise6.csproj|solutionrelative:practise6\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Practise6\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\Bicycle.cs",
+              "RelativeToolTip": "Practise6\\Bicycle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:05:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\Car.cs",
+              "RelativeDocumentMoniker": "Practise6\\Car.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\Car.cs",
+              "RelativeToolTip": "Practise6\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:05:03.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\IMovable.cs",
+              "RelativeDocumentMoniker": "Practise6\\IMovable.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\IMovable.cs",
+              "RelativeToolTip": "Practise6\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:24:09.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\Program.cs",
+              "RelativeDocumentMoniker": "Practise6\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise6\\Practise6\\Program.cs",
+              "RelativeToolTip": "Practise6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:16:29.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

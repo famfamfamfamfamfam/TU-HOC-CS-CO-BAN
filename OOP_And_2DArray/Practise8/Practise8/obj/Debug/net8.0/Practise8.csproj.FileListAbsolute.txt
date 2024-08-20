@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise8\Practise8\obj\Debug\net8.0\Practise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise8\Practise8\obj\Debug\net8.0\Practise8.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise8\Practise8\obj\Debug\net8.0\Practise8.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise8\Practise8\obj\Debug\net8.0\Practise8.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Practise8\Practise8\obj\Debug\net8.0\Practise8.sourcelink.json

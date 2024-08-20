@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC308DAA-3DB3-4C68-AFE4-222419FA4698}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC308DAA-3DB3-4C68-AFE4-222419FA4698}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC308DAA-3DB3-4C68-AFE4-222419FA4698}|Practise\\Practise.csproj|c:\\users\\pc\\desktop\\module1\\oop_and_2darray\\practise\\practise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC308DAA-3DB3-4C68-AFE4-222419FA4698}|Practise\\Practise.csproj|solutionrelative:practise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise\\Person.cs",
+              "RelativeDocumentMoniker": "Practise\\Person.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise\\Person.cs",
+              "RelativeToolTip": "Practise\\Person.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:41:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise\\Program.cs",
+              "RelativeDocumentMoniker": "Practise\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Module1\\OOP_And_2DArray\\Practise\\Practise\\Program.cs",
+              "RelativeToolTip": "Practise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:39:01.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

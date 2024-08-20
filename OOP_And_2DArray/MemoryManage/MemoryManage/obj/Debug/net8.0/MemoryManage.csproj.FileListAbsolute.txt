@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\bin\Debug\net8.0\MemoryManage.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\bin\Debug\net8.0\MemoryManage.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\bin\Debug\net8.0\MemoryManage.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\bin\Debug\net8.0\MemoryManage.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\bin\Debug\net8.0\MemoryManage.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\refint\MemoryManage.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\MemoryManage.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\MemoryManage\MemoryManage\obj\Debug\net8.0\ref\MemoryManage.dll

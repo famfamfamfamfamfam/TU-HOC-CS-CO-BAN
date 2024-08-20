@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\bin\Debug\net8.0\Pratise2.exe
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\bin\Debug\net8.0\Pratise2.deps.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\bin\Debug\net8.0\Pratise2.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\bin\Debug\net8.0\Pratise2.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\bin\Debug\net8.0\Pratise2.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.sourcelink.json
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\refint\Pratise2.dll
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.pdb
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\Pratise2.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\OOP_And_2DArray\Practise\Pratise2\Pratise2\obj\Debug\net8.0\ref\Pratise2.dll
