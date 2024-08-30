@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.sourcelink.json
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.exe
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.deps.json
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.dll
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.pdb
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.dll
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\refint\SimpleGame.dll
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.pdb
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\RanSanMoi\SimpleGame\SimpleGame\obj\Debug\net8.0\ref\SimpleGame.dll
